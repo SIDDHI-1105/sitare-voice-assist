@@ -1,73 +1,148 @@
-# Welcome to your Lovable project
+# 🌟 Sitare – Empowering Persons with Disabilities (PwDs)
 
-## Project info
+> *“We are not just building an app — we are building independence.”*
 
-**URL**: https://lovable.dev/projects/eca1cbe7-8e59-4424-8d5a-b302b9f3d693
+Sitare is an **inclusive web platform** designed to empower individuals with disabilities through *education, employment, healthcare, and community support*.  
+It offers *AI-powered accessibility features* for users with **visual, hearing, speech, learning, and physical impairments**, enabling independence and opportunity in one adaptive ecosystem.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🧩 Core Modules
 
-**Use Lovable**
+### 1️⃣ **AccessPoint** – Login & Personalization
+- Choose disability type: *Blind, Deaf, Mute, Dyslexic, Learning Disabled, or Physically Impaired*
+- Select preferred language  
+- Adaptive UI:
+  - Voice input/output for blind users  
+  - Sign language overlays for deaf/mute users  
+  - Dyslexia-friendly fonts and layouts  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/eca1cbe7-8e59-4424-8d5a-b302b9f3d693) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+### 2️⃣ **SupportSphere** – Support & Services
+- **Booking Hub:** Schedule appointments with therapists, caretakers, and translators  
+- **Mobility Market:** Rent/purchase mobility aids (wheelchairs, sticks, etc.)  
+- **Emergency Connect:** One-tap access to guardians or emergency contacts  
+- **SignAcademy Finder:** Discover nearby sign language academies  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 3️⃣ **LearnEase** – Inclusive Learning
+- **Video Lessons:** Voice descriptions, sign overlays, and dyslexia-friendly formatting  
+- **Smart Notes:**  
+  - Record audio notes  
+  - Adjustable fonts and text styling  
+- **Interactive Quizzes:** Accessible for all disability types  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+### 4️⃣ **JobBridge** – Employment Portal
+- **Accessible Job Listings:** Filter by skill level and disability type  
+- **Resume Builder:** Simplified resume generation tool  
+- **Interview Prep:** Voice, text, and sign-supported practice sessions  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 5️⃣ **ConnectZone** – Community & Engagement
+- **Chat Rooms:** Text and voice communication  
+- **Image Sharing:** Add descriptions for inclusivity  
+- **Discussion Boards:** Share experiences, tips, and motivation  
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 🧠 Accessibility Features
 
-**Edit a file directly in GitHub**
+- **Voice Navigation:** e.g., “Open video” command  
+- **Text-to-Speech / Speech-to-Text** support  
+- **Sign Language Integration:** via video or 3D avatar overlays  
+- **Dyslexia-Friendly Fonts:** *OpenDyslexic, Lexend, Arial*  
+- **Adjustable Font Sizes** and **Minimalist Layouts**  
+- **Multilingual Support** for global accessibility  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 🎨 UI/UX Design Guidelines
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### ✅ Accessibility-First Design
+- Large buttons & labeled icons  
+- High-contrast visuals for clarity  
+- Responsive design for mobile & desktop  
 
-## What technologies are used for this project?
+### 🎨 Color Palette
+| Element | Color Code | Purpose |
+|----------|-------------|----------|
+| Background | `#F5F5DC` | Soft beige for low visual strain |
+| Primary Accent | `#4A90E2` | Calming blue for trust |
+| Secondary Accent | `#A3D9A5` | Gentle green for growth |
+| Text | `#333333` | High-contrast dark gray |
+| Alert | `#FFA500` | Warm orange for visibility |
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 💼 Business Model
 
-## How can I deploy this project?
+### **1. Freemium Model**
+- Free access to core education, healthcare, and community tools  
+- Premium offerings: Advanced job prep tools, therapy sessions, workshops  
 
-Simply open [Lovable](https://lovable.dev/projects/eca1cbe7-8e59-4424-8d5a-b302b9f3d693) and click on Share -> Publish.
+### **2. Employer Partnerships**
+- Inclusive employers pay to feature jobs  
+- CSR collaborations with companies supporting PwDs  
 
-## Can I connect a custom domain to my Lovable project?
+### **3. Healthcare Tie-ups**
+- Clinics & therapy centers can list their services for a fee  
 
-Yes, you can!
+### **4. NGO & Government Support**
+- Platform acts as a bridge between PwDs, NGOs, and government schemes  
+- Can be supported via grants and CSR funding  
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## 📊 Market Potential
+
+- **Target Audience:**  
+  - 1B+ PwDs worldwide  
+  - 26.8M+ PwDs in India  
+  - Families, employers, NGOs, and healthcare providers  
+
+- **Market Size:**  
+  - *Assistive Tech Market*: Expected to reach **$31B by 2030**  
+  - Sitare bridges *EdTech + HealthTech + JobTech* for PwDs  
+
+- **Why Sitare Stands Out:**  
+  - Super-app model combining *education, jobs, community, and healthcare*  
+  - AI-driven accessibility for all disability types  
+
+---
+
+## 🌍 Impact Story
+
+> “A blind student listens to lecture summaries, applies for jobs, and books therapy — all from one platform. That’s the power of Sitare.”
+
+Sitare transforms the lives of PwDs by offering **independence, inclusion, and empowerment** — not just access.
+
+---
+
+## 🛠️ Tech Stack (Example)
+> *(Adjust this based on your actual stack)*
+
+- **Frontend:** React / Next.js  
+- **Backend:** Node.js / Express  
+- **Database:** MongoDB / Firebase  
+- **AI Services:** OpenAI API / Google Speech / TensorFlow  
+- **Accessibility Tools:** ARIA roles, WCAG 2.1 compliance, Screen Reader APIs  
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/<your-username>/sitare.git
+cd sitare
+
+# Install dependencies
+npm install
+
+# Run development server
+npm start
