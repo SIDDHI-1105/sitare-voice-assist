@@ -12,6 +12,9 @@ export default defineConfig(({ mode }) => ({
   preview: {
     host: "::",
     port: 5173,
+    allowedHosts: [
+      'sitare-voice-assist-1.onrender.com'
+    ],
   },
   plugins: [
     react(),
